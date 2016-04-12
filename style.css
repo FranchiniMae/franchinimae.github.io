@@ -42,3 +42,56 @@
 }
 
 
+.content-o {
+	height: 1500px;
+	max-width: 100%;
+	background-color: #C5D0D6;
+}
+
+.parallax-two {
+	padding: 300px 0;
+	background-image: url('bluebridge.jpeg');
+	background-size: cover;
+	background-attachment: fixed;
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+.parallax-two {
+	text-align: center;
+	text-transform: uppercase;
+	color: #FFF;
+	font-size: 4em;
+	font-family: arial;
+}
+
+ul {
+    list-style-type: none;
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+
+
