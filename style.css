@@ -1,15 +1,5 @@
-.temp {
-	font-family: 'Sacramento', cursive;
-	color: #8193A2;
-	font-size: 4em;
-}
-
 .centertext {
 	text-align: center;
-}
-
-.message {
-	font-family: 'Forum', cursive;
 }
 
 * {
@@ -17,15 +7,18 @@
 	padding: 0;
 }
 
-.content-p {
+.home {
 	height: 1500px;
 	max-width: 100%;
 	background-color: #C5D0D6;
 }
 
 .parallax-bg {
-	padding: 300px 0;
-	background-image: url('bluebridge.jpeg');
+/*	padding: 27% 0;
+*/	
+	height: 38%;
+	padding: 7% 0;
+	background-image: url('wood.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
@@ -34,11 +27,11 @@
 }
 
 .parallax-bg {
-	text-align: center;
+/*	text-align: center;
 	text-transform: uppercase;
 	color: #FFF;
 	font-size: 4em;
-	font-family: arial;
+	font-family: arial;*/
 }
 
 
@@ -49,9 +42,11 @@
 }
 
 .parallax-two {
-	padding: 300px 0;
-	background-image: url('bluebridge.jpeg');
-	background-size: cover;
+	padding: 3% 0;
+	height: 46%;
+	background-image: url('yellowblanket.jpeg');
+/*	background-color: white;
+*/	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
@@ -59,33 +54,43 @@
 }
 
 .parallax-two {
-	text-align: center;
+/*	text-align: center;
 	text-transform: uppercase;
 	color: #FFF;
 	font-size: 4em;
-	font-family: arial;
+	font-family: arial;*/
+}
+
+.testing {
+	height: 100%;
 }
 
 ul {
     list-style-type: none;
     position: fixed;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgba(255, 255, 255, 0.39);
     width: 100%;
 }
 
+#nav { 
+	text-align: center;
+}
+
 li {
-    float: left;
+	margin: 0 auto;
+	display: inline-block;
 }
 
 li a {
     display: block;
-    color: white;
+    color: rgb(92, 91, 93);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -93,5 +98,17 @@ li a:hover {
     background-color: #111;
 }
 
+.welcome {
+	font-family: 'Cantata One', serif;
+	font-size: 4em;
+	color: white;
+}
+
+.tagline {
+	color: white;
+	font-family: 'Lekton', sans-serif;
+	margin-top: 2%;
+	font-size: 1.3em;
+}
 
 
