@@ -14,11 +14,9 @@
 }
 
 .parallax-bg {
-/*	padding: 27% 0;
-*/	
 	height: 38%;
 	padding: 7% 0;
-	background-image: url('wood.jpeg');
+	background-image: url('images/wood.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
@@ -38,26 +36,23 @@
 .content-o {
 	height: 1500px;
 	max-width: 100%;
-	background-image: url('yellowblanket.jpeg');
+	background-image: url('images/yellowblanket.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
-/*	background-color: rgba(145, 147, 148, 0.12); */
 }
 
 .parallax-two {
 	padding: 3% 0;
 	height: 46%;
 	background-color: white;
-/*	background-image: url('lightcup.jpeg');*/
-/*	background-color: white;
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
-	transition: all 0.2s ease;*/
+	transition: all 0.2s ease;
 }
 
 .parallax-two {
@@ -208,4 +203,10 @@ li a:visited {
 	position: absolute;
 	bottom: -20px;
 	left: 1em;
+}
+
+/******** END HOVER BUBBLE ************/
+
+.about-par {
+	padding: 3% 10%;
 }
