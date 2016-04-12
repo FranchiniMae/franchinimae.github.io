@@ -120,7 +120,14 @@ li a:visited {
 	font-family: 'Cantata One', serif;
 	font-size: 3em;
 	color: #A9ABA1;
-	margin-top: -15%;
+	margin-top: -17%;
+}
+
+.projects {
+	font-family: 'Cantata One', serif;
+	font-size: 3em;
+	color: #A9ABA1;
+	margin-top: 3%;
 }
 
 .aboutmessage {
