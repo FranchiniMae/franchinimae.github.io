@@ -116,6 +116,17 @@ li a:visited {
 	margin-top: 15%;
 }
 
+.about {
+	font-family: 'Cantata One', serif;
+	font-size: 3em;
+	color: #A9ABA1;
+	margin-top: -15%;
+}
+
+.aboutmessage {
+	margin-bottom: 15%;
+}
+
 .tagline {
 	color: #E2F1C7;
 	font-family: 'Nixie One', cursive;
