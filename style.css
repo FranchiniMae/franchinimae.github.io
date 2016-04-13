@@ -198,7 +198,6 @@ li a:visited {
 
 .arrow-c {
 	font-size: 5em;
-	margin-top: -4%;
 	float: right;
 	margin-right: 4%;
 	color: rgba(182, 187, 195, 0.55);
@@ -208,7 +207,6 @@ li a:visited {
 
 .arrowleft-c {
 	font-size: 5em;
-	margin-top: -4%;
 	float: left;
 	margin-left: 4%;
 	color: rgba(182, 187, 195, 0.55);
