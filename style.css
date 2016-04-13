@@ -184,7 +184,7 @@ li a:visited {
 	color: rgba(212, 205, 151, 0.47);
 	text-decoration: none;
 	z-index: -999;
-	margin-top: -25%;
+	margin-top: 15%;
 }
 
 .arrowleft-b {
@@ -194,7 +194,7 @@ li a:visited {
 	color: rgba(212, 205, 151, 0.47);
 	text-decoration: none;
 	z-index: -999;
-	margin-top: -25%;
+	margin-top: 15%;
 }
 
 .arrow-c {
@@ -302,13 +302,13 @@ b {
 
 .fa-arrow-circle-right {
 	text-decoration: none;
-	color: black;
+	color: #80827A;
 	font-size: 1.3em;
 }
 
 .fa-github {
 	text-decoration: none;
-	color: black;
+	color: #80827A;
 	font-size: 1.3em;
 }
 
@@ -336,4 +336,9 @@ b {
 .message {
 	color: white;
 	letter-spacing: 1.5px;
+}
+
+img.project-image {
+	max-width: 67%;
+	max-height: 67%
 }
