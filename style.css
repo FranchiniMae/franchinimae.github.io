@@ -36,7 +36,7 @@
 .content-o {
 	height: 1500px;
 	max-width: 100%;
-	background-image: url('images/yellowblanket.jpeg');
+	background-image: url('images/cupcake.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
@@ -122,7 +122,7 @@ li a:visited {
 .projects {
 	font-family: 'Cantata One', serif;
 	font-size: 3em;
-	color: #A9ABA1;
+	color: #80827A;
 	margin-top: 2%;
 }
 
@@ -136,6 +136,8 @@ li a:visited {
 	margin-top: 2%;
 	font-size: 1.5em;
 }
+
+/************ ARROW CSS ************/
 
 .arrow {
 	font-size: 5em;
@@ -200,7 +202,7 @@ li a:visited {
 	margin-top: -2%;
 	float: right;
 	margin-right: 4%;
-	color: rgba(154, 156, 160, 0.28);
+	color: rgba(182, 187, 195, 0.55);
 	text-decoration: none;
 	z-index: -999;
 }
@@ -210,15 +212,11 @@ li a:visited {
 	margin-top: -2%;
 	float: left;
 	margin-left: 4%;
-	color: rgba(154, 156, 160, 0.28);
+	color: rgba(182, 187, 195, 0.55);
 	text-decoration: none;
 	z-index: -999;
 }
 
-.message {
-	color: white;
-	letter-spacing: 1.5px;
-}
 
 /********* HOVERBUBBLE CSS **********/
 
@@ -299,7 +297,7 @@ b {
 }
 
 .proj {
-	color: #A9B1A9;
+	color: #80827A;
 }
 
 .fa-arrow-circle-right {
@@ -331,6 +329,11 @@ b {
 
 .contactmessage {
 	font-family: 'Cantata One', serif;
-	color: rgba(95, 94, 92, 0.9);
+	color: #FFF;
 	font-size: 3em;
+}
+
+.message {
+	color: white;
+	letter-spacing: 1.5px;
 }
