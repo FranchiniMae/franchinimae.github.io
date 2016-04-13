@@ -342,5 +342,13 @@ b {
 img.project-image {
 	max-width: 67%;
 	max-height: 67%;
-	text-align: center;
+	margin: 0 auto;
+}
+
+.slick-prev {
+	background-color: green;
+}
+
+.slick-next {
+	background-color: green;
 }
