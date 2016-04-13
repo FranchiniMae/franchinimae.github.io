@@ -272,6 +272,7 @@ li a:visited {
 .footer {
 	margin-top: 20%;
 	color: #FFF;
+	font-family: 'Nixie One', cursive;
 }
 
 .aboutinfo {
@@ -327,6 +328,10 @@ b {
 	padding: 0.5%;
 }
 
+.icon:hover {
+	background-color: green;
+}
+
 .contactmessage {
 	font-family: 'Cantata One', serif;
 	color: #FFF;
@@ -345,11 +350,23 @@ img.project-image {
 }
 
 .slick-prev {
-	background-color: green;
+	background-color: #B1AC62;
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	height: 25px;
+	width: 8%;
+	color: #FFF;
 }
 
 .slick-next {
-	background-color: green;
+	background-color: #B1AC62;
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	height: 25px;
+	width: 8%;
+	color: #FFF;
 }
 
 .slick-slider {
