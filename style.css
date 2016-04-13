@@ -10,7 +10,7 @@
 .home {
 	height: 1500px;
 	max-width: 100%;
-	background-color: rgba(145, 147, 148, 0.12);
+	background-color: #4C4C54;
 }
 
 .parallax-bg {
@@ -113,16 +113,17 @@ li a:visited {
 
 .about {
 	font-family: 'Cantata One', serif;
-	font-size: 3em;
-	color: #A9ABA1;
-	margin-top: -17%;
+	font-size: 5em;
+	color: white;
+	margin-top: -10%;
+	margin-bottom: -2%;
 }
 
 .projects {
 	font-family: 'Cantata One', serif;
 	font-size: 3em;
 	color: #A9ABA1;
-	margin-top: 3%;
+	margin-top: 2%;
 }
 
 .aboutmessage {
@@ -152,6 +153,50 @@ li a:visited {
 	margin-left: 4%;
 	color: rgba(255, 255, 255, 0.23);
 	text-decoration: none;
+}
+
+.arrow-a {
+	font-size: 5em;
+	margin-top: -2%;
+	float: right;
+	margin-right: 4%;
+	color: rgba(154, 156, 160, 0.28);
+	text-decoration: none;
+	z-index: -999;
+	margin-top: 13%;
+}
+
+.arrowleft-a {
+	font-size: 5em;
+	margin-top: -2%;
+	float: left;
+	margin-left: 4%;
+	color: rgba(154, 156, 160, 0.28);
+	text-decoration: none;
+	z-index: -999;
+	margin-top: 13%;
+}
+
+.arrow-b {
+	font-size: 5em;
+	margin-top: -2%;
+	float: right;
+	margin-right: 4%;
+	color: rgba(212, 205, 151, 0.47);
+	text-decoration: none;
+	z-index: -999;
+	margin-top: -25%;
+}
+
+.arrowleft-b {
+	font-size: 5em;
+	margin-top: -2%;
+	float: left;
+	margin-left: 4%;
+	color: rgba(212, 205, 151, 0.47);
+	text-decoration: none;
+	z-index: -999;
+	margin-top: -25%;
 }
 
 .message {
@@ -208,5 +253,55 @@ li a:visited {
 /******** END HOVER BUBBLE ************/
 
 .about-par {
-	padding: 3% 10%;
+/*	padding: 6% 10%;*/
+}
+
+.footer {
+	position: fixed;
+}
+
+.aboutinfo {
+	padding: 6% 30%;
+	font-family: 'Raleway', sans-serif;
+	color: rgba(199, 200, 206, 0.59);
+}
+
+b {
+	color: #F1EFA1;
+}
+
+.project-name {
+	color: #B1AC62;
+	font-size: 1.3em;
+	text-align: center;
+}
+
+.project-details {
+	font-family: 'Raleway', sans-serif;
+	text-align: left;
+	margin: 0 25%;
+}
+
+.proj {
+	color: #A9B1A9;
+}
+
+.fa-arrow-circle-right {
+	text-decoration: none;
+	color: black;
+	font-size: 1.3em;
+}
+
+.fa-github {
+	text-decoration: none;
+	color: black;
+	font-size: 1.3em;
+}
+
+.project-icons {
+	margin: 0 auto;
+}
+
+.contactinfo {
+	margin-top: -25%;
 }
