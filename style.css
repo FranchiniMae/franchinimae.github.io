@@ -184,8 +184,7 @@ li a:visited {
 	margin-right: 4%;
 	color: rgba(212, 205, 151, 0.47);
 	text-decoration: none;
-/*	z-index: -999;
-*/	margin-top: 15%;
+	margin-top: 18%;
 }
 
 .arrowleft-b {
@@ -194,8 +193,7 @@ li a:visited {
 	margin-left: 4%;
 	color: rgba(212, 205, 151, 0.47);
 	text-decoration: none;
-/*	z-index: -999;*/
-	margin-top: 15%;
+	margin-top: 18%;
 }
 
 .arrow-c {
@@ -272,7 +270,8 @@ li a:visited {
 }
 
 .footer {
-	position: fixed;
+	margin-top: 20%;
+	color: #FFF;
 }
 
 .aboutinfo {
