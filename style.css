@@ -124,6 +124,7 @@ li a:visited {
 	font-size: 3em;
 	color: #80827A;
 	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
 .aboutmessage {
@@ -340,5 +341,6 @@ b {
 
 img.project-image {
 	max-width: 67%;
-	max-height: 67%
+	max-height: 67%;
+	text-align: center;
 }
