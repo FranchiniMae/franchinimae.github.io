@@ -329,7 +329,7 @@ b {
 }
 
 .icon:hover {
-	color: #7CCA83;
+	color: #80827A;
 }
 
 .contactmessage {
@@ -371,4 +371,12 @@ img.project-image {
 
 .slick-slider {
 	margin: 0 6%;
+}
+
+.slick-slide {
+	margin-top: 0.5%;
+}
+
+.projfa:hover {
+	color: #B1AC62;
 }
