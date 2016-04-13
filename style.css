@@ -303,5 +303,17 @@ b {
 }
 
 .contactinfo {
-	margin-top: -25%;
+	margin-top: -35%;
+}
+
+.icon {
+	font-size: 5em;
+	text-decoration: none;
+	color: rgb(91, 140, 83);
+}
+
+.contactmessage {
+	font-family: 'Cantata One', serif;
+	color: rgba(95, 94, 92, 0.9);
+	font-size: 3em;
 }
