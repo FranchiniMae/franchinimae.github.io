@@ -325,7 +325,8 @@ b {
 .icon {
 	font-size: 5em;
 	text-decoration: none;
-	color: rgb(91, 140, 83);
+	color: #FFF;
+	padding: 0.5%;
 }
 
 .contactmessage {
