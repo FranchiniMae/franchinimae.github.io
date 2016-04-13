@@ -157,7 +157,6 @@ li a:visited {
 
 .arrow-a {
 	font-size: 5em;
-	margin-top: -2%;
 	float: right;
 	margin-right: 4%;
 	color: rgba(154, 156, 160, 0.28);
@@ -168,7 +167,6 @@ li a:visited {
 
 .arrowleft-a {
 	font-size: 5em;
-	margin-top: -2%;
 	float: left;
 	margin-left: 4%;
 	color: rgba(154, 156, 160, 0.28);
@@ -179,7 +177,6 @@ li a:visited {
 
 .arrow-b {
 	font-size: 5em;
-	margin-top: -2%;
 	float: right;
 	margin-right: 4%;
 	color: rgba(212, 205, 151, 0.47);
@@ -190,13 +187,32 @@ li a:visited {
 
 .arrowleft-b {
 	font-size: 5em;
-	margin-top: -2%;
 	float: left;
 	margin-left: 4%;
 	color: rgba(212, 205, 151, 0.47);
 	text-decoration: none;
 	z-index: -999;
 	margin-top: -25%;
+}
+
+.arrow-c {
+	font-size: 5em;
+	margin-top: -2%;
+	float: right;
+	margin-right: 4%;
+	color: rgba(154, 156, 160, 0.28);
+	text-decoration: none;
+	z-index: -999;
+}
+
+.arrowleft-c {
+	font-size: 5em;
+	margin-top: -2%;
+	float: left;
+	margin-left: 4%;
+	color: rgba(154, 156, 160, 0.28);
+	text-decoration: none;
+	z-index: -999;
 }
 
 .message {
