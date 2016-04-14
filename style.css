@@ -218,6 +218,7 @@ li a:visited {
 	margin-top: 20%;
 	color: #FFF;
 	font-family: 'Nixie One', cursive;
+	font-weight: bold;
 }
 
 .aboutinfo {
@@ -280,7 +281,8 @@ b {
 .contactmessage {
 	font-family: 'Cantata One', serif;
 	color: #7B7B75;
-	font-size: 3.5em;
+	font-size: 3em;
+	font-weight: bold;
 }
 
 .message {
