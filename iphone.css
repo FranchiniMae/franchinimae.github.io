@@ -1,0 +1,124 @@
+/************* MEDIA QUERY ******************/
+
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+
+.welcome {
+	font-size: 2em;
+	margin-top: 50%;
+}
+
+.parallax-bg {
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 50%;
+}
+
+.about {
+	font-size: 2em;
+}
+
+.aboutinfo {
+	padding: 6% 12%;
+	padding-bottom: 0%;
+}
+
+.project-details {
+	text-align: left;
+	margin: 0 5%;
+}
+
+.tagline {
+	font-size: 1em;
+	margin-top: 5%;
+}
+
+li a {
+  display: block;
+}
+
+.slick-prev {
+	border-radius: 4px;
+	font-size: 12px;
+	height: 30px;
+	width: 15%;
+}
+
+.slick-next {
+	border-radius: 4px;
+	font-size: 12px;
+	height: 30px;
+	width: 15%;
+}
+.contactmessage {
+	margin-top: -100%;
+	font-size: 2em;
+}
+
+.projects {
+	font-size: 2em;
+}
+
+/************ ARROW CSS ************/
+
+.arrow {
+	font-size: 2em;
+	margin-top: -2%;
+}
+
+.arrowleft {
+	font-size: 2em;
+	margin-top: -2%;
+}
+
+.arrow-a {
+	font-size: 2em;
+	margin-top: 50%;
+}
+
+.arrowleft-a {
+	font-size: 2em;
+	margin-top: 50%;
+}
+
+.arrow-b {
+	font-size: 2em;
+	margin-top: 55%;
+}
+
+.arrowleft-b {
+	font-size: 2em;
+	margin-top: 55%;
+}
+
+.arrow-c {
+	font-size: 2em;
+}
+
+.arrowleft-c {
+	font-size: 2em;
+}
+
+.about {
+	margin-top: -80%;
+}
+
+.home { 
+	height: 1400px;
+}
+
+/******* END MEDIA QUERY *******/
+
+.footer {
+	margin-top: 50%;
+}
+
+#nav {
+	font-size: 0.8em;
+}
+
+}
