@@ -50,43 +50,6 @@
 	height: 100%;
 }
 
-ul {
-    list-style-type: none;
-    position: fixed;
-    margin: 0 auto;
-    padding: 0;
-    overflow: hidden;
-    background-color: white;
-    width: 100%;
-}
-
-#nav { 
-	text-align: center;
-	z-index: 999999;
-}
-
-li {
-	margin: 0 auto;
-	display: inline-block;
-}
-
-li a {
-  display: block;
-  color: rgba(92, 91, 93, 0.41);
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-	font-family: 'Raleway', sans-serif;
-}
-
-li a:hover {
-  background-color: #B5BDC1;
-}
-
-li a:visited {
-	background: #B5BDC1;
-}
-
 .welcome {
 	font-family: 'Cantata One', serif;
 	font-size: 4.5em;
@@ -175,6 +138,46 @@ li a:visited {
 	color: rgba(182, 187, 195, 0.55);
 	text-decoration: none;
 	z-index: -999;
+}
+
+/*************** NAVBAR ***************/
+
+
+ul {
+    list-style-type: none;
+    position: fixed;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    width: 100%;
+}
+
+#nav { 
+	text-align: center;
+	z-index: 999999;
+}
+
+li {
+	margin: 0 auto;
+	display: inline-block;
+}
+
+li a {
+  display: block;
+  color: rgba(92, 91, 93, 0.41);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+li a:hover {
+  background-color: #B5BDC1;
+}
+
+li a:visited {
+	background: #B5BDC1;
 }
 
 
