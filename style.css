@@ -24,15 +24,6 @@
 	transition: all 0.2s ease;
 }
 
-.parallax-bg {
-/*	text-align: center;
-	text-transform: uppercase;
-	color: #FFF;
-	font-size: 4em;
-	font-family: arial;*/
-}
-
-
 .content-o {
 	height: 1500px;
 	max-width: 100%;
@@ -53,14 +44,6 @@
 	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
-}
-
-.parallax-two {
-/*	text-align: center;
-	text-transform: uppercase;
-	color: #FFF;
-	font-size: 4em;
-	font-family: arial;*/
 }
 
 .testing {
@@ -95,7 +78,6 @@ li a {
 	font-family: 'Raleway', sans-serif;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #B5BDC1;
 }
@@ -297,8 +279,7 @@ img.project-image {
 }
 
 .slick-prev {
-/*	background-color: #B1AC62;
-*/	border: none;
+	border: none;
 	background-color: rgb(88, 142, 162);
 	border-radius: 4px;
 	font-size: 16px;
@@ -308,7 +289,6 @@ img.project-image {
 }
 
 .slick-next {
-/*	background-color: #B1AC62;*/
 	background-color: rgb(88, 142, 162);
 	border: none;
 	border-radius: 4px;
