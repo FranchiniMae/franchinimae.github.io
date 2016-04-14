@@ -36,7 +36,7 @@
 .content-o {
 	height: 1500px;
 	max-width: 100%;
-	background-image: url('images/cupcake.jpeg');
+	background-image: url('images/white.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
@@ -269,7 +269,7 @@ b {
 .icon {
 	font-size: 5em;
 	text-decoration: none;
-	color: #FFF;
+	color: #9EA27B;
 	padding: 0.5%;
 }
 
@@ -279,7 +279,7 @@ b {
 
 .contactmessage {
 	font-family: 'Cantata One', serif;
-	color: #FFF;
+	color: #7B7B75;
 	font-size: 3em;
 }
 
