@@ -16,7 +16,7 @@
 .parallax-bg {
 	height: 38%;
 	padding: 7% 0;
-	background-image: url('images/wood.jpeg');
+	background-image: url('../images/wood.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
@@ -27,7 +27,7 @@
 .content-o {
 	height: 1500px;
 	max-width: 100%;
-	background-image: url('images/white.jpeg');
+	background-image: url('../images/white.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
@@ -319,7 +319,7 @@ img.project-image {
 /**************** FOOTER *******************/
 
 .footer {
-	margin-top: 20%;
+	margin-top: 17%;
 	color: grey;
 	font-family: 'Nixie One', cursive;
 }
