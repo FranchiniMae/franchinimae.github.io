@@ -2,7 +2,7 @@
 and (max-width: 600px) {
 
 .welcome {
-	font-size: 3.5em;
+	font-size: 3.3em;
 	margin-top: 50%;
 }
 
@@ -14,8 +14,7 @@ and (max-width: 600px) {
 }
 
 .aboutinfo {
-	padding: 6% 12%;
-	padding: 15% 12% 0% 12%;
+ padding: 15% 12% 0% 12%;
 }
 
 .project-details {
@@ -245,3 +244,34 @@ li a {
 
 }
 
+
+/*************************************/
+/*************************************/
+
+@media screen 
+and (max-width: 460px) {
+
+.welcome {
+	font-size: 2em;
+	margin-top: 70%;
+}
+	
+.about {
+	margin-top: -97%;
+	font-size: 2em;
+}
+
+.contactmessage {
+	margin-top: -110%;
+	font-size: 2em;
+}
+
+.icon {
+	font-size: 3em;
+}
+
+.footer {
+	margin-top: 50%;
+}
+
+}
