@@ -211,8 +211,8 @@ b {
 	font-family: 'Cantata One', serif;
 	font-size: 3em;
 	color: #80827A;
-	margin-top: 2%;
-	margin-bottom: 4%;
+	margin-top: -2%;
+	margin-bottom: 2%;
 }
 
 .project-name {
@@ -248,8 +248,8 @@ b {
 }
 
 img.project-image {
-	max-width: 67%;
-	max-height: 67%;
+	max-width: 60%;
+	max-height: 60%;
 	margin: 0 auto;
 }
 
