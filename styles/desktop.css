@@ -53,48 +53,6 @@ li a {
 	font-size: 2em;
 }
 
-/************ ARROW CSS ************/
-
-.arrow {
-	font-size: 3em;
-	margin-top: -10%;
-}
-
-.arrowleft {
-	font-size: 3em;
-	margin-top: -10%;
-}
-
-.arrow-a {
-	font-size: 3em;
-	margin-top: 30%;
-}
-
-.arrowleft-a {
-	font-size: 3em;
-	margin-top: 30%;
-}
-
-.arrow-b {
-	font-size: 3em;
-	margin-top: 55%;
-}
-
-.arrowleft-b {
-	font-size: 3em;
-	margin-top: 55%;
-}
-
-.arrow-c {
-	font-size: 3em;
-	margin-top: 10%;
-}
-
-.arrowleft-c {
-	font-size: 3em;
-	margin-top: 10%;
-}
-
 .about {
 	margin-top: -67%;
 	font-size: 2em;
@@ -179,46 +137,6 @@ li a {
 
 .projects {
 	font-size: 2em;
-}
-
-/************ ARROW CSS ************/
-
-.arrow {
-	font-size: 3em;
-	margin-top: 1%;
-}
-
-.arrowleft {
-	font-size: 3em;
-	margin-top: 1%;
-}
-
-.arrow-a {
-	font-size: 3em;
-	margin-top: 30%;
-}
-
-.arrowleft-a {
-	font-size: 3em;
-	margin-top: 30%;
-}
-
-.arrow-b {
-	font-size: 3em;
-	margin-top: 30%;
-}
-
-.arrowleft-b {
-	font-size: 3em;
-	margin-top: 30%;
-}
-
-.arrow-c {
-	font-size: 3em;
-}
-
-.arrowleft-c {
-	font-size: 3em;
 }
 
 .about {

@@ -68,83 +68,11 @@ p {
 	font-size: 1.5em;
 }
 
-/************ ARROW CSS ************/
+/************ HIDDEN ARROW ***************/
 
-/*.arrow {
-	font-size: 5em;
-	margin-top: -2%;
-	float: right;
-	margin-right: 4%;
-	color: rgba(255, 255, 255, 0.23);
-	text-decoration: none;
-}
-
-.arrowleft {
-	font-size: 5em;
-	margin-top: -2%;
-	float: left;
-	margin-left: 4%;
-	color: rgba(255, 255, 255, 0.23);
-	text-decoration: none;
-}
-
-.arrow-a {
-	font-size: 5em;
-	float: right;
-	margin-right: 4%;
-	color: rgba(206, 208, 212, 0.47);
-	text-decoration: none;
-	z-index: -999;
-	margin-top: 13%;
-}
-
-.arrowleft-a {
-	font-size: 5em;
-	float: left;
-	margin-left: 4%;
-	color: rgba(206, 208, 212, 0.47);
-	text-decoration: none;
-	z-index: -999;
-	margin-top: 13%;
-}*/
-
-.arrow-b {
-	font-size: 5em;
-	float: right;
-	margin-right: 4%;
-	color: rgba(212, 205, 151, 0.47);
-	text-decoration: none;
-	margin-top: 18%;
+.hiddenarrow {
 	visibility: hidden;
 }
-
-.arrowleft-b {
-	font-size: 5em;
-	float: left;
-	margin-left: 4%;
-	color: rgba(212, 205, 151, 0.47);
-	text-decoration: none;
-	margin-top: 18%;
-	visibility: hidden;
-}
-
-/*.arrow-c {
-	font-size: 5em;
-	float: right;
-	margin-right: 4%;
-	color: rgba(182, 187, 195, 0.55);
-	text-decoration: none;
-	z-index: -999;
-}
-
-.arrowleft-c {
-	font-size: 5em;
-	float: left;
-	margin-left: 4%;
-	color: rgba(182, 187, 195, 0.55);
-	text-decoration: none;
-	z-index: -999;
-}*/
 
 /*************** NAVBAR ***************/
 
