@@ -66,7 +66,7 @@
 
 /************ ARROW CSS ************/
 
-.arrow {
+/*.arrow {
 	font-size: 5em;
 	margin-top: -2%;
 	float: right;
@@ -102,7 +102,7 @@
 	text-decoration: none;
 	z-index: -999;
 	margin-top: 13%;
-}
+}*/
 
 .arrow-b {
 	font-size: 5em;
@@ -111,6 +111,7 @@
 	color: rgba(212, 205, 151, 0.47);
 	text-decoration: none;
 	margin-top: 18%;
+	visibility: hidden;
 }
 
 .arrowleft-b {
@@ -120,9 +121,10 @@
 	color: rgba(212, 205, 151, 0.47);
 	text-decoration: none;
 	margin-top: 18%;
+	visibility: hidden;
 }
 
-.arrow-c {
+/*.arrow-c {
 	font-size: 5em;
 	float: right;
 	margin-right: 4%;
@@ -138,7 +140,7 @@
 	color: rgba(182, 187, 195, 0.55);
 	text-decoration: none;
 	z-index: -999;
-}
+}*/
 
 /*************** NAVBAR ***************/
 
@@ -273,7 +275,7 @@ img.project-image {
 .splashicon {
 	font-size: 3em;
 	text-decoration: none;
-	color: rgb(77, 140, 134);
+	color: #FFF;
 	padding: 0.5%;
 }
 
@@ -296,24 +298,15 @@ img.project-image {
 
 /******** PROJECT SLICK BAR ************/
 
-.slick-prev {
-	border: none;
-	background-color: rgb(77, 140, 134);
-	border-radius: 4px;
-	font-size: 16px;
-	height: 25px;
-	width: 8%;
-	color: #FFF;
+.slickleft {
+	color: #B1AC62;
+	font-size: 5em;
 }
 
-.slick-next {
-	background-color: rgb(77, 140, 134);
-	border: none;
-	border-radius: 4px;
-	font-size: 16px;
-	height: 25px;
-	width: 8%;
-	color: #FFF;
+.slickright {
+	margin-left: 70%;
+	color: #B1AC62;
+	font-size: 5em;
 }
 
 .slick-slider {
@@ -332,3 +325,8 @@ img.project-image {
 	font-family: 'Nixie One', cursive;
 }
 
+/********** TESTING ARROWS ************/
+
+.arrowdiv {
+	text-align: center;
+}
