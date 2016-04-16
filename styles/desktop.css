@@ -153,6 +153,10 @@ and (max-width: 460px) {
 		font-size: 2em;
 	}
 
+	.aboutinfo {
+		margin-top: -8%;
+	}
+
 	.contactmessage {
 		margin-top: -110%;
 		font-size: 2em;
