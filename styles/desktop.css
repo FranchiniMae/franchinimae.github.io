@@ -96,7 +96,7 @@ li a {
 }
 
 .about {
-	margin-top: -80%;
+	margin-top: -67%;
 	font-size: 2em;
 }
 
@@ -130,7 +130,7 @@ and (max-width: 1100px) {
 
 .welcome {
 	font-size: 2.9em;
-	margin-top: 40%;
+	margin-top: 28%;
 }
 
 .parallax-bg {
@@ -222,7 +222,7 @@ li a {
 }
 
 .about {
-	margin-top: -45%;
+	margin-top: -21%;
 	font-size: 2em;
 }
 
@@ -257,7 +257,7 @@ and (max-width: 460px) {
 }
 	
 .about {
-	margin-top: -97%;
+	margin-top: -90%;
 	font-size: 2em;
 }
 

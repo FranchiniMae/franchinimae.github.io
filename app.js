@@ -8,13 +8,14 @@ $('.projectinfo').slick({
   fade: true,
   cssEase: 'linear'
 });
+});
 	
 
-  var documentEl = $(document),
-	parallaxBg = $('div.parallax-bg');
+//   var documentEl = $(document),
+// 	parallaxBg = $('div.parallax-bg');
 
-	documentEl.on('scroll', function () {
-	var currScrollPos = documentEl.scrollTop();
-	parallaxBg.css('background-position', '0 ' + -currScrollPos/4 + 'px');
-	});
-});
+// 	documentEl.on('scroll', function () {
+// 	var currScrollPos = documentEl.scrollTop();
+// 	parallaxBg.css('background-position', '0 ' + -currScrollPos/4 + 'px');
+// 	});
+// });

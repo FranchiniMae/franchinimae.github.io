@@ -54,7 +54,11 @@
 	font-family: 'Cantata One', serif;
 	font-size: 4.5em;
 	color: white;
-	margin-top: 15%;
+	margin-top: 13%;
+}
+
+.splashicon {
+	font-size: 2em;
 }
 
 .tagline {
@@ -187,7 +191,7 @@ li a:visited {
 	font-family: 'Cantata One', serif;
 	font-size: 5em;
 	color: white;
-	margin-top: -10%;
+	margin-top: -8%;
 	margin-bottom: -2%;
 }
 
