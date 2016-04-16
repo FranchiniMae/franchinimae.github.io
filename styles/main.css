@@ -57,10 +57,6 @@
 	margin-top: 13%;
 }
 
-.splashicon {
-	font-size: 2em;
-}
-
 .tagline {
 	color: #E2F1C7;
 	font-family: 'Nixie One', cursive;
@@ -273,6 +269,14 @@ img.project-image {
 	color: rgb(77, 140, 134);
 	padding: 0.5%;
 }
+
+.splashicon {
+	font-size: 3em;
+	text-decoration: none;
+	color: rgb(77, 140, 134);
+	padding: 0.5%;
+}
+
 
 .icon:hover {
 	color: #B1AC62;
