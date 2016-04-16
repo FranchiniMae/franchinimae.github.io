@@ -239,6 +239,8 @@ b {
 	font-size: 1.3em;
 }
 
+/*need to change this*/
+
 .fa-github {
 	text-decoration: none;
 	color: #80827A;
@@ -300,13 +302,15 @@ img.project-image {
 
 .slickleft {
 	color: #B1AC62;
-	font-size: 5em;
+	font-size: 3em;
+	z-index: -99999;
 }
 
 .slickright {
-	margin-left: 70%;
+	margin-left: 5%;
 	color: #B1AC62;
-	font-size: 5em;
+	font-size: 3em;
+	z-index: -999999;
 }
 
 .slick-slider {
