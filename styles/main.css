@@ -203,6 +203,11 @@ img.project-image {
 	padding: 0.5%;
 }
 
+.icon:hover {
+	color: #B1AC62;
+	text-shadow: 0 0 3px #000000;
+}
+
 .splashicon {
 	font-size: 3em;
 	text-decoration: none;
@@ -210,10 +215,11 @@ img.project-image {
 	padding: 0.5%;
 }
 
-
-.icon:hover {
-	color: #B1AC62;
+.splashicon:hover {
+	color: rgb(77, 140, 134);
+	text-shadow: 0 0 3px #000000;
 }
+
 
 .contactmessage {
 	font-family: 'Cantata One', serif;
