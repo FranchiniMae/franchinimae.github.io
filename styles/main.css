@@ -242,11 +242,21 @@ img.project-image {
 	z-index: -99999;
 }
 
+.slickleft:hover {
+	color: rgb(77, 140, 134);
+	text-shadow: 0 0 3px #000000;
+}
+
 .slickright {
 	margin-left: 5%;
 	color: #B1AC62;
 	font-size: 3em;
 	z-index: -999999;
+}
+
+.slickright:hover {
+	color: rgb(77, 140, 134);
+	text-shadow: 0 0 3px #000000;
 }
 
 .slick-slider {
