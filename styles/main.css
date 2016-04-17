@@ -31,7 +31,7 @@ p {
 .content-o {
 	height: 1500px;
 	max-width: 100%;
-	background-image: url('../images/white.jpeg');
+	background-image: url('../images/plant.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-transition: all 0.2s ease;
@@ -59,6 +59,7 @@ p {
 	font-size: 4.5em;
 	color: white;
 	margin-top: 13%;
+	text-shadow: 0 0 3px #000000;
 }
 
 .tagline {
@@ -216,8 +217,9 @@ img.project-image {
 
 .contactmessage {
 	font-family: 'Cantata One', serif;
-	color: #7B7B75;
+	color: #FFFFFF;
 	font-size: 3.5em;
+	text-shadow: 0 0 3px #000000;
 }
 
 .message {
