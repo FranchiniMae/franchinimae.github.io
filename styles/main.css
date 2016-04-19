@@ -101,7 +101,7 @@ li {
 
 li a {
   display: block;
-  color: rgba(92, 91, 93, 0.41);
+  color: rgb(77, 140, 134);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -134,7 +134,8 @@ li a:visited {
 .aboutinfo {
 	padding: 6% 30%;
 	font-family: 'Raleway', sans-serif;
-	color: rgb(40, 40, 41);
+	color: white;
+	text-align: left;
 }
 
 b {
